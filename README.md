@@ -8,7 +8,7 @@ FoodBridge is a web application that aims to address food insecurity and food de
 - Integration with SendGrid to send email notifications to users and volunteers
 - Integration with the Cigo tracker API to monitor delivery routes and track product inventory
 - Authentication and authorization using JWT tokens
-- Database migrations using Sequelize and a PostgreSQL database
+- Database migrations using MongoDB database
 - Automated testing using Jest
 - Continuous integration and deployment using Google Cloud
 
